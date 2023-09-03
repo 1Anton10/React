@@ -4,11 +4,11 @@ import './css/reset_style.css';
 import './css/index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Header from './Header';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    
     <App />
   </React.StrictMode>
 );
