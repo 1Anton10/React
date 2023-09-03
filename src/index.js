@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './reset_style.css';
-import './index.css';
+import './css/reset_style.css';
+import './css/index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
